@@ -29,4 +29,4 @@ console.log(switchCaseSequential(6));
 console.log(switchCaseSequential(7));
 console.log(switchCaseSequential(8));
 console.log(switchCaseSequential(9));
-module.exports = switchCaseSequential
+module.exports = switchCaseSequential;
