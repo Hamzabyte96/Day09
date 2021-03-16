@@ -1,5 +1,5 @@
 function functionElse(num) {
-    var result = "";
+    var result ="";
     if (num <= 5) {
         return "5 or smaller";
     } else { 
